@@ -1,0 +1,8 @@
+:root{
+    --cor-da-letra:black;
+    --cor-do-botao:blue;
+    --cor-do-fundo:white;
+}
+h1{
+    color: var(--cor-da-letra);
+}
